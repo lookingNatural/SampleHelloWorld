@@ -1,0 +1,10 @@
+* >Natural Source Header 000000
+* :Mode S
+* :CP
+* <Natural Source Header
+/** New Program HELLO-P.
+/**
+/** :author Training
+/* TODO Enter your code here
+WRITE "Hello World"
+END
